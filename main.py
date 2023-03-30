@@ -9,7 +9,10 @@ def print_hi(name):
     print(f'Hi, {name}')  # Press Strg+F8 to toggle the breakpoint.
     # hallo version 1.2
 
-    # da teste ich die visu ########################
+    # da teste ich die visu ################
+    # da machma noch was########
+
+
 
 
 # Press the green button in the gutter to run the script.
