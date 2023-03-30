@@ -9,6 +9,8 @@ def print_hi(name):
     print(f'Hi, {name}')  # Press Strg+F8 to toggle the breakpoint.
     # hallo version 1.2
 
+    # da teste ich die visu ########################
+
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
